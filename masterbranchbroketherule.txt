@@ -1,1 +1,2 @@
-text on master branch
+added conflict text
+
